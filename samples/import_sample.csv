@@ -1,0 +1,6 @@
+date,type,category,amount,memo,tags
+2024-01-05,income,salary,3000000,1월 월급,
+2024-01-10,expense,rent,150000,월세,"house,fixed"
+2024-01-12,expense,transport,20000,교통카드 충전,
+2024-01-14,expense,food,30000,친구랑 저녁,"meal,friends"
+2024-01-15,expense,food,15000,점심,meal

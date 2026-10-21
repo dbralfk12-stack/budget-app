@@ -1,0 +1,12 @@
+# 개인 가계부 데이터는 저장소에 올리지 않는다
+/data/
+*.log
+
+# 내보낸 CSV (샘플 제외)
+/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
